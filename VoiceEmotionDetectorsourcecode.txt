@@ -1,6 +1,5 @@
-Jupyter Notebook source code link:
-http://localhost:8888/notebooks/VoiceEmotionDetector.ipynb
-
+source code link:
+http://localhost:8888/notebooks/VED1.ipynb#
 
 import pandas as pd
 import numpy as nup
